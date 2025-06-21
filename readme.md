@@ -19,6 +19,7 @@ Il contient plusieurs notebooks permettant l’inspection des données, le netto
 ## Exécution
 Pour l'exécution du fichier 01_Présentation_et_inspection_visuelle.ipynb :
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ZoubirCHATTI/AVC_Study/main?urlpath=%2Fdoc%2Ftree%2FNotebooks%2F01_Pr%C3%A9sentation_et_inspection_visuelle.ipynb)
+
 Pour l'exécution du fichier 02_Nettoyage_des_données.ipynb :
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ZoubirCHATTI/AVC_Study/main?filepath=Notebooks/02_Nettoyage_des_données.ipynb)
 
