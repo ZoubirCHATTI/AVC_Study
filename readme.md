@@ -18,7 +18,8 @@ Il contient plusieurs notebooks permettant l’inspection des données, le netto
 - `Y.csv` : variable cible (stroke ou non-stroke)
 ## Exécution
 pour l'exécution du fichier 01_Présentation_et_inspection_visuelle.ipynb
-https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ZoubirCHATTI/AVC_Study/main?urlpath=%2Fdoc%2Ftree%2FNotebooks%2F01_Pr%C3%A9sentation_et_inspection_visuelle.ipynb
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ZoubirCHATTI/AVC_Study/main?urlpath=%2Fdoc%2Ftree%2FNotebooks%2F01_Pr%C3%A9sentation_et_inspection_visuelle.ipynb)
+
 ## Résultats obtenus
 
 - La régression logistique offre un bon rappel (recall) pour les classes 0 et 1.  
