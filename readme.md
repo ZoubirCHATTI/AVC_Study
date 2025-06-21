@@ -15,8 +15,10 @@ Il contient plusieurs notebooks permettant l’inspection des données, le netto
 
 - `Stroke_Prediction.csv` : données brutes pour la prédiction d’AVC  
 - `Xscaled.csv` : variables standardisées  
-- `Y.csv` : variable cible (stroke ou non-stroke)  
-
+- `Y.csv` : variable cible (stroke ou non-stroke)
+## Exécution
+pour l'exécution du fichier 01_Présentation_et_inspection_visuelle.ipynb
+https://mybinder.org/badge_logo.svg)](https://hub.2i2c.mybinder.org/user/zoubirchatti-avc_study-d4zf44i8/doc/tree/Notebooks/01_Pr%C3%A9sentation_et_inspection_visuelle.ipynb
 ## Résultats obtenus
 
 - La régression logistique offre un bon rappel (recall) pour les classes 0 et 1.  
