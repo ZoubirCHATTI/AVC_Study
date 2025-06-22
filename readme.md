@@ -24,7 +24,6 @@ Pour l'exécution du fichier 02_Nettoyage_des_données.ipynb :
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ZoubirCHATTI/AVC_Study/main?filepath=Notebooks/02_Nettoyage_des_données.ipynb)
 
 Pour l'exécution du fichier 03_LogisticRegression.ipynb:
-
 [![Binder](https://mybinder.org/badge_logo.svg)](https://hub.2i2c.mybinder.org/user/zoubirchatti-avc_study-lf0mp1u4/doc/tree/Notebooks/03_LogisticRegression.ipynb)
 
 
