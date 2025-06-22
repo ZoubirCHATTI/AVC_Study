@@ -30,6 +30,10 @@ Pour l'exécution du fichier 03_LogisticRegression.ipynb:
 Pour l'exécution du fichier 04_RandomForestClassifier.ipynb:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://hub.2i2c.mybinder.org/user/zoubirchatti-avc_study-l0l17n17/doc/tree/Notebooks/04_RandomForestClassifier.ipynb)
 
+Pour l'exécution du fichier 05_surechantillonnage_et_echantiollonnage_equilibré.ipynb:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://hub.2i2c.mybinder.org/user/zoubirchatti-avc_study-yrurc6p5/doc/tree/Notebooks/05_surechantillonnage_et_echantiollonnage_equilibr%C3%A9.ipynb)
+
+
 ## Résultats obtenus
 
 - La régression logistique offre un bon rappel (recall) pour les classes 0 et 1.  
@@ -38,15 +42,11 @@ Pour l'exécution du fichier 04_RandomForestClassifier.ipynb:
 
 ## Instructions pour l’utilisation
 
-1. **Téléchargez** depuis GitHub les dossiers suivants :  
-   - `Notebooks/` (vos notebooks Jupyter)  
-   - `Functions/` (vos scripts/fonctions Python)  
-   - `Données/` (vos fichiers CSV)  
+01-Lancez un notebook directement en cliquant sur l’un des badges Binder ci-dessous.
+Cela ouvrira un environnement JupyterLab en ligne, sans besoin d’installation locale.
 
-2. **Ouvrez** le notebook que vous souhaitez exécuter (dans Google Colab, Jupyter, etc.).  
+02-Explorez les notebooks situés dans le dossier Notebooks/.
+Les scripts utilisés sont dans le dossier Functions/ et les données dans Données/.
 
-3. **Modifiez** dans le notebook la variable `path_file` correspondant au chemin des données sur votre machine ou environnement.  
-   
-   Par exemple, dans Google Colab, après avoir monté Google Drive, adaptez :  
-   ```python
-   path_file = '/content/gdrive/MyDrive/chemin_vers_le_dossier/Données/Stroke_Prediction.csv'
+Assurez-vous que la variable path_file dans chaque notebook pointe vers le bon chemin relatif, généralement:
+path_file = '../Données/Stroke_Prediction.csv'
