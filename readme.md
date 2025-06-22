@@ -23,6 +23,14 @@ Pour l'exécution du fichier 01_Présentation_et_inspection_visuelle.ipynb :
 Pour l'exécution du fichier 02_Nettoyage_des_données.ipynb :
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ZoubirCHATTI/AVC_Study/main?filepath=Notebooks/02_Nettoyage_des_données.ipynb)
 
+Pour l'exécution du fichier 03_LogisticRegression.ipynb:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://hub.2i2c.mybinder.org/user/zoubirchatti-avc_study-lf0mp1u4/doc/tree/Notebooks/03_LogisticRegression.ipynb)
+
+
+Pour l'exécution du fichier 04_RandomForestClassifier.ipynb:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://hub.2i2c.mybinder.org/user/zoubirchatti-avc_study-l0l17n17/doc/tree/Notebooks/04_RandomForestClassifier.ipynb)
+
 ## Résultats obtenus
 
 - La régression logistique offre un bon rappel (recall) pour les classes 0 et 1.  
